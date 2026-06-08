@@ -1,4 +1,4 @@
-# PuzzleWorld — Support / 고객 지원 / Soporte
+# Eve Puzzle — Support / 고객 지원 / Soporte
 
 **Last updated / 최종 업데이트 / Última actualización: 2026-06-06**
 
@@ -9,7 +9,7 @@ Languages: [한국어](#한국어) · [English](#english) · [Español](#españo
 <a name="한국어"></a>
 ## 한국어
 
-PuzzleWorld 사용에 도움이 필요하신가요? 기꺼이 도와드리겠습니다.
+Eve Puzzle 사용에 도움이 필요하신가요? 기꺼이 도와드리겠습니다.
 
 ### 연락처
 - **이메일:** downeve@gmail.com
@@ -23,7 +23,7 @@ PuzzleWorld 사용에 도움이 필요하신가요? 기꺼이 도와드리겠습
 
 ### 자주 묻는 질문
 
-**PuzzleWorld는 무료인가요?**
+**Eve Puzzle는 무료인가요?**
 네. 본 앱은 무료이며 광고로 운영됩니다. 인앱 결제는 없습니다.
 
 **광고가 왜 나오나요?**
@@ -52,7 +52,7 @@ downeve@gmail.com 으로 의견을 보내주세요. 언제든 환영합니다.
 <a name="english"></a>
 ## English
 
-Need help with PuzzleWorld? We're happy to assist.
+Need help with Eve Puzzle? We're happy to assist.
 
 ### Contact
 - **Email:** downeve@gmail.com
@@ -66,7 +66,7 @@ When reporting a problem, please include:
 
 ### Frequently asked questions
 
-**Is PuzzleWorld free?**
+**Is Eve Puzzle free?**
 Yes. The App is free and supported by ads. There are no in-app purchases.
 
 **Why do I see ads?**
@@ -95,7 +95,7 @@ We'd love to hear from you — email us at downeve@gmail.com.
 <a name="español"></a>
 ## Español
 
-¿Necesitas ayuda con PuzzleWorld? Estaremos encantados de ayudarte.
+¿Necesitas ayuda con Eve Puzzle? Estaremos encantados de ayudarte.
 
 ### Contacto
 - **Correo electrónico:** downeve@gmail.com
@@ -109,7 +109,7 @@ Al informar de un problema, incluye por favor:
 
 ### Preguntas frecuentes
 
-**¿PuzzleWorld es gratis?**
+**¿Eve Puzzle es gratis?**
 Sí. La App es gratuita y se financia con publicidad. No hay compras dentro de la App.
 
 **¿Por qué veo anuncios?**
