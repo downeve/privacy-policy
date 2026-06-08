@@ -1,8 +1,8 @@
-# Eve Puzzle — Privacy Policy / 개인정보 처리방침 / Política de Privacidad
+# Eve Puzzle — Privacy Policy / 개인정보 처리방침 / プライバシーポリシー / 隐私政策 / 隱私權政策 / Política de Privacidad / Politique de confidentialité / Datenschutzrichtlinie
 
-**Last updated / 최종 업데이트 / Última actualización: 2026-06-07**
+**Last updated / 최종 업데이트 / 最終更新 / 最后更新 / 最後更新 / Última actualización / Mise à jour / Aktualisiert: 2026-06-08**
 
-Languages: [한국어](#한국어) · [English](#english) · [Español](#español)
+Languages: [한국어](#한국어) · [English](#english) · [日本語](#ja) · [简体中文](#zh-hans) · [繁體中文](#zh-hant) · [Español](#español) · [Français](#fr) · [Deutsch](#de)
 
 ---
 
@@ -243,3 +243,403 @@ Podemos actualizar esta Política periódicamente. Los cambios importantes se re
 
 ### 13. Contacto
 Consultas o solicitudes: **downeve@gmail.com** (Dawoon Choi).
+
+---
+
+<a name="ja"></a>
+## 日本語
+
+Eve Puzzle（以下「本アプリ」「当方」）は、Dawoon Choi（以下「開発者」）が開発した無料の広告ベースの iOS パズルゲームです。本ポリシーは、本アプリの利用時に収集される情報、その利用目的、利用者の選択肢について説明します。本アプリを利用することで、本ポリシーに同意したものとみなされます。
+
+### 1. 開発者情報
+- **アプリ:** Eve Puzzle（iOS）
+- **開発者:** Dawoon Choi
+- **連絡先:** downeve@gmail.com
+
+本アプリはアカウント作成を必要とせず、氏名・メールアドレス・電話番号・住所を求めません。
+
+### 2. 収集する情報
+**(a) 利用者が直接提供する情報。** 必須項目はありません。本アプリ独自の会員登録・ログインはありません。
+
+**(b) 端末にのみ保存される情報。** ゲームの進行状況、ベスト記録、サウンド/ハプティクス設定、広告表示頻度のカウンターは、端末内（iOS の `UserDefaults`）にローカル保存されます。これらは端末に留まり、開発者には送信されません。
+
+**(c) 広告データ（Google AdMob 経由）。** 本アプリは Google AdMob を通じて広告を表示します。広告の配信・測定のため、Google およびそのパートナーは以下を収集・処理する場合があります。
+- 端末および広告識別子（許可時は IDFA、IDFV など）
+- IP アドレスおよびそれに基づくおおよその位置
+- 端末情報（モデル、OS バージョン、言語）
+- 広告の操作および成果データ
+
+iOS では IDFA へのアクセスに Apple の「アプリのトラッキングの透明性（ATT）」の同意が必要です。拒否しても広告は表示されますが、IDFA を用いたパーソナライズは行われません。
+
+**(d) Game Center（任意）。** Apple Game Center にサインインしてリーダーボードを利用する場合、ランキング表示のため Game Center のプレイヤー識別子とスコアが Apple によって処理されます。任意であり、サインインしない場合はリーダーボードは省略され、ベストスコアは端末内にのみ残ります。
+
+当方は機微情報（特別カテゴリーの個人データ）を故意に収集しません。
+
+### 3. 情報の利用目的
+- 広告の表示および測定（当方の唯一の収益源）
+- リーダーボードの表示（Game Center 利用時のみ）
+- 中核的なゲーム機能（進行状況・設定の保存）の動作
+- 法的義務の遵守（例：同意記録の保管）
+
+### 4. 広告・同意・トラッキング
+**Google AdMob。** 広告は Google が提供します。Google によるデータ処理は [Google プライバシーポリシー](https://policies.google.com/privacy) および [Google のサービスを使用するサイト・アプリからの情報の利用方法](https://policies.google.com/technologies/partner-sites) に従います。
+
+**EEA・英国・スイス（GDPR）。** 必要な地域では、広告を読み込む前に Google 認定の同意メッセージ（Google User Messaging Platform、「UMP」）を表示します。同意の選択は端末に保存されます。アプリ内の **設定 → 広告同意の管理** でいつでも変更・撤回できます。
+
+**Apple アプリのトラッキングの透明性（ATT）。** iOS では、IDFA を用いたアプリ間・サイト間のトラッキングの前に同意を求めます。
+
+### 5. 第三者サービス
+- **Google AdMob / Google User Messaging Platform** — 広告および同意管理。Google プライバシーポリシー参照。
+- **Apple Game Center** — 任意のリーダーボード。[Apple プライバシーポリシー](https://www.apple.com/legal/privacy/) 参照。
+
+これらの第三者は、自社の SDK を通じて収集するデータについて独立した管理者／処理者として行為します。
+
+### 6. データの共有
+開発者は利用者の個人データを販売せず、第三者の独自マーケティングのために共有しません。上記のデータは、広告および Game Center 機能の提供のため、Google と Apple が各自のポリシーに従って処理します。
+
+### 7. データの保持と削除
+- 端末に保存されたデータはアプリを削除すると一緒に削除されます。
+- 広告識別子は **iOS の設定 → プライバシーとセキュリティ → トラッキング / Apple の広告** でリセットできます。
+- 同意フォームが表示される地域（EEA/英国）では、アプリ内の **設定 → 広告同意の管理** で変更・撤回できます。
+- Google・Apple が保持するデータは各社のポリシーおよびプライバシー設定を参照してください。
+
+### 8. 子どものプライバシー
+本アプリは 13 歳未満（または各国の最低年齢）の子どもを対象とせず、子どもの個人情報を故意に収集しません。子どもが個人データを提供したと思われる場合はご連絡ください。
+
+### 9. 利用者の権利と選択肢
+居住地域（例：EEA/英国の GDPR、カリフォルニアの CCPA/CPRA）に応じて、個人データへのアクセス・訂正・削除・処理制限、および同意の撤回の権利を有する場合があります。
+- **広告同意の撤回/変更（EEA/英国）:** アプリ内の 設定 → 広告同意の管理。
+- **トラッキング（iOS）:** iOS の設定 → プライバシーとセキュリティ → トラッキング でいつでも変更。
+- **その他のご請求:** downeve@gmail.com までご連絡ください。
+
+### 10. 国際移転
+Google と Apple は利用者の居住国以外でデータを処理する場合があり、各社のポリシーに記載の保護措置（標準契約条項など）を適用します。
+
+### 11. セキュリティ
+当方は Apple iOS および当方が利用する Google・Apple サービスのセキュリティ対策に依拠します。端末内のデータは iOS のアプリサンドボックスで保護されます。ただし、いかなる送信・保存方法も 100% 安全ではありません。
+
+### 12. ポリシーの変更
+本ポリシーは随時更新されることがあります。重要な変更は「最終更新」日の更新で反映されます。変更の発効後も本アプリの利用を継続することは、更新後ポリシーへの同意とみなされます。ただし、決済機能の導入や独自サーバーでのデータ収集など、個人データの処理に関する重要な変更がある場合は、アプリ内で別途通知し、改めて明示的な同意（GDPR 上の積極的なオプトイン）を取得します。広告目的のデータ処理に関する同意は、「継続利用」ではなく UMP 同意フォームによる明示的なオプトインによってのみ取得します。
+
+### 13. お問い合わせ
+ご質問・ご請求: **downeve@gmail.com**（Dawoon Choi）。
+
+---
+
+<a name="zh-hans"></a>
+## 简体中文
+
+Eve Puzzle（以下简称"本应用""我们"）是由 Dawoon Choi（以下简称"开发者"）开发的免费、由广告支持的 iOS 益智游戏。本政策说明使用本应用时收集的信息、用途以及您拥有的选择。使用本应用即表示您同意本政策。
+
+### 1. 开发者信息
+- **应用：** Eve Puzzle（iOS）
+- **开发者：** Dawoon Choi
+- **联系方式：** downeve@gmail.com
+
+本应用不要求创建账户，也不索取您的姓名、电子邮件、电话号码或住址。
+
+### 2. 我们收集的信息
+**(a) 您提供的信息。** 无任何必填项。本应用没有自有注册或登录。
+
+**(b) 仅存储于您设备的信息。** 游戏进度、最佳记录、声音/触感设置以及广告频率计数器保存在您的设备本地（iOS `UserDefaults`）。这些数据保留在设备上，不会发送给开发者。
+
+**(c) 广告数据（通过 Google AdMob）。** 本应用通过 Google AdMob 展示广告。为投放和衡量广告，Google 及其合作伙伴可能收集和处理：
+- 设备和广告标识符（在允许时为 IDFA、IDFV 等）
+- IP 地址及由此得出的大致位置
+- 设备信息（型号、系统版本、语言）
+- 广告互动与效果数据
+
+在 iOS 上，访问 IDFA 需通过 Apple 的"应用跟踪透明度（ATT）"获得您的许可。若拒绝，广告仍会显示，但不会使用 IDFA 进行个性化。
+
+**(d) Game Center（可选）。** 若您登录 Apple Game Center 并使用排行榜，Apple 会处理您的 Game Center 玩家标识符和分数以显示排名。此为可选；若未登录，则跳过排行榜，您的最佳成绩仅保留在设备上。
+
+我们不会故意收集敏感（特殊类别）个人数据。
+
+### 3. 我们如何使用信息
+- 展示和衡量广告（我们唯一的收入来源）
+- 显示排行榜（仅在您使用 Game Center 时）
+- 运行核心游戏功能（保存进度与设置）
+- 遵守法律义务（如保留同意记录）
+
+### 4. 广告、同意与跟踪
+**Google AdMob。** 广告由 Google 提供。Google 的数据处理遵循 [Google 隐私权政策](https://policies.google.com/privacy) 及 [Google 如何使用来自使用其服务的网站或应用的信息](https://policies.google.com/technologies/partner-sites)。
+
+**欧洲经济区、英国和瑞士（GDPR）。** 在需要的地区，加载广告前会显示 Google 认证的同意消息（Google User Messaging Platform，"UMP"）。您的同意选择保存在设备上。您可随时通过应用内 **设置 → 管理广告同意** 更改或撤回。
+
+**Apple 应用跟踪透明度（ATT）。** 在 iOS 上，进行任何使用 IDFA 的跨应用或跨网站跟踪前，本应用会请求您的许可。
+
+### 5. 第三方服务
+- **Google AdMob / Google User Messaging Platform** — 广告与同意管理。参见 Google 隐私权政策。
+- **Apple Game Center** — 可选排行榜。参见 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。
+
+这些第三方就其通过自有 SDK 收集的数据作为独立的控制者/处理者行事。
+
+### 6. 数据共享
+开发者不会出售您的个人数据，也不会为第三方自身的营销目的共享。上述数据由 Google 和 Apple 依据各自政策处理，以提供广告和 Game Center 功能。
+
+### 7. 数据保留与删除
+- 设备上保存的数据会在您卸载应用时一并删除。
+- 您可在 **iOS 设置 → 隐私与安全 → 跟踪 / Apple 广告** 中重置广告标识符。
+- 在显示同意表单的地区（欧洲经济区/英国），您可通过应用内 **设置 → 管理广告同意** 更改或撤回。
+- 关于 Google 或 Apple 持有的数据，请参阅其各自的政策和隐私控制。
+
+### 8. 儿童隐私
+本应用不面向 13 岁以下（或您所在国家的相应最低年龄）儿童，我们不会故意收集其个人信息。若您认为有儿童提供了个人数据，请与我们联系。
+
+### 9. 您的权利与选择
+根据您的所在地（如欧洲经济区/英国的 GDPR、加州的 CCPA/CPRA），您可能拥有访问、更正、删除或限制处理个人数据以及撤回同意的权利。
+- **撤回/更改广告同意（欧洲经济区/英国）：** 应用内 设置 → 管理广告同意。
+- **跟踪（iOS）：** 随时在 iOS 设置 → 隐私与安全 → 跟踪 中更改。
+- **其他请求：** 请发送邮件至 downeve@gmail.com。
+
+### 10. 跨境传输
+Google 和 Apple 可能在您所在国家以外处理数据，并按其政策所述采取保障措施（如标准合同条款）。
+
+### 11. 安全
+我们依赖 Apple iOS 以及我们所用 Google、Apple 服务的安全措施。设备上的数据受 iOS 应用沙盒保护。但任何传输或存储方式都无法保证 100% 安全。
+
+### 12. 本政策的变更
+我们可能会不时更新本政策。重大变更将通过更新"最后更新"日期体现。变更生效后继续使用本应用即视为接受更新后的政策。但若发生影响个人数据处理的重大变更（例如引入付费功能或在自有服务器收集数据），我们将在应用内单独通知并重新取得明确同意（GDPR 下的主动选择同意）。广告目的数据处理的同意仅通过 UMP 同意表单的明确选择取得，绝不会仅凭继续使用。
+
+### 13. 联系方式
+咨询或请求： **downeve@gmail.com**（Dawoon Choi）。
+
+---
+
+<a name="zh-hant"></a>
+## 繁體中文
+
+Eve Puzzle（以下簡稱「本 App」「我們」）是由 Dawoon Choi（以下簡稱「開發者」）開發的免費、由廣告支援的 iOS 益智遊戲。本政策說明使用本 App 時收集的資訊、用途以及您擁有的選擇。使用本 App 即表示您同意本政策。
+
+### 1. 開發者資訊
+- **App：** Eve Puzzle（iOS）
+- **開發者：** Dawoon Choi
+- **聯絡方式：** downeve@gmail.com
+
+本 App 不要求建立帳號，也不索取您的姓名、電子郵件、電話號碼或地址。
+
+### 2. 我們收集的資訊
+**(a) 您提供的資訊。** 無任何必填項。本 App 沒有自有註冊或登入。
+
+**(b) 僅儲存於您裝置的資訊。** 遊戲進度、最佳紀錄、音效/觸覺設定以及廣告頻率計數器儲存在您的裝置本機（iOS `UserDefaults`）。這些資料保留在裝置上，不會傳送給開發者。
+
+**(c) 廣告資料（透過 Google AdMob）。** 本 App 透過 Google AdMob 顯示廣告。為投放與衡量廣告，Google 及其合作夥伴可能收集與處理：
+- 裝置與廣告識別碼（在允許時為 IDFA、IDFV 等）
+- IP 位址及由此得出的概略位置
+- 裝置資訊（型號、系統版本、語言）
+- 廣告互動與成效資料
+
+在 iOS 上，存取 IDFA 需透過 Apple 的「App 追蹤透明度（ATT）」取得您的許可。若拒絕，廣告仍會顯示，但不會使用 IDFA 進行個人化。
+
+**(d) Game Center（選用）。** 若您登入 Apple Game Center 並使用排行榜，Apple 會處理您的 Game Center 玩家識別碼與分數以顯示排名。此為選用；若未登入，則略過排行榜，您的最佳成績僅保留在裝置上。
+
+我們不會故意收集敏感（特殊類別）個人資料。
+
+### 3. 我們如何使用資訊
+- 顯示與衡量廣告（我們唯一的收入來源）
+- 顯示排行榜（僅在您使用 Game Center 時）
+- 執行核心遊戲功能（儲存進度與設定）
+- 遵守法律義務（如保留同意紀錄）
+
+### 4. 廣告、同意與追蹤
+**Google AdMob。** 廣告由 Google 提供。Google 的資料處理遵循 [Google 隱私權政策](https://policies.google.com/privacy) 及 [Google 如何使用來自使用其服務之網站或應用程式的資訊](https://policies.google.com/technologies/partner-sites)。
+
+**歐洲經濟區、英國與瑞士（GDPR）。** 在需要的地區，載入廣告前會顯示 Google 認證的同意訊息（Google User Messaging Platform，「UMP」）。您的同意選擇儲存在裝置上。您可隨時透過 App 內 **設定 → 管理廣告同意** 變更或撤回。
+
+**Apple App 追蹤透明度（ATT）。** 在 iOS 上，進行任何使用 IDFA 的跨 App 或跨網站追蹤前，本 App 會請求您的許可。
+
+### 5. 第三方服務
+- **Google AdMob / Google User Messaging Platform** — 廣告與同意管理。參見 Google 隱私權政策。
+- **Apple Game Center** — 選用排行榜。參見 [Apple 隱私權政策](https://www.apple.com/legal/privacy/)。
+
+這些第三方就其透過自有 SDK 收集的資料作為獨立的控管者/處理者行事。
+
+### 6. 資料共享
+開發者不會出售您的個人資料，也不會為第三方自身的行銷目的共享。上述資料由 Google 與 Apple 依據各自政策處理，以提供廣告與 Game Center 功能。
+
+### 7. 資料保留與刪除
+- 裝置上儲存的資料會在您刪除 App 時一併移除。
+- 您可在 **iOS 設定 → 隱私權與安全性 → 追蹤 / Apple 廣告** 中重設廣告識別碼。
+- 在顯示同意表單的地區（歐洲經濟區/英國），您可透過 App 內 **設定 → 管理廣告同意** 變更或撤回。
+- 關於 Google 或 Apple 持有的資料，請參閱其各自的政策與隱私權控制。
+
+### 8. 兒童隱私
+本 App 不以 13 歲以下（或您所在國家的相應最低年齡）兒童為對象，我們不會故意收集其個人資訊。若您認為有兒童提供了個人資料，請與我們聯絡。
+
+### 9. 您的權利與選擇
+依您的所在地（如歐洲經濟區/英國的 GDPR、加州的 CCPA/CPRA），您可能擁有存取、更正、刪除或限制處理個人資料以及撤回同意的權利。
+- **撤回/變更廣告同意（歐洲經濟區/英國）：** App 內 設定 → 管理廣告同意。
+- **追蹤（iOS）：** 隨時在 iOS 設定 → 隱私權與安全性 → 追蹤 中變更。
+- **其他請求：** 請寄信至 downeve@gmail.com。
+
+### 10. 跨境傳輸
+Google 與 Apple 可能在您所在國家以外處理資料，並依其政策所述採取保障措施（如標準契約條款）。
+
+### 11. 安全
+我們依賴 Apple iOS 以及我們所用 Google、Apple 服務的安全措施。裝置上的資料受 iOS App 沙箱保護。但任何傳輸或儲存方式都無法保證 100% 安全。
+
+### 12. 本政策的變更
+我們可能會不時更新本政策。重大變更將透過更新「最後更新」日期體現。變更生效後繼續使用本 App 即視為接受更新後的政策。但若發生影響個人資料處理的重大變更（例如導入付費功能或在自有伺服器收集資料），我們將在 App 內另行通知並重新取得明確同意（GDPR 下的主動選擇同意）。廣告目的資料處理的同意僅透過 UMP 同意表單的明確選擇取得，絕不會僅憑繼續使用。
+
+### 13. 聯絡方式
+諮詢或請求： **downeve@gmail.com**（Dawoon Choi）。
+
+---
+
+<a name="fr"></a>
+## Français
+
+Eve Puzzle (« l'App », « nous ») est un jeu de puzzle iOS gratuit, financé par la publicité et développé par Dawoon Choi (« le Développeur »). La présente Politique explique quelles informations sont collectées lorsque vous utilisez l'App, comment elles sont utilisées et les choix dont vous disposez. En utilisant l'App, vous acceptez cette Politique.
+
+### 1. Qui sommes-nous
+- **App :** Eve Puzzle (iOS)
+- **Développeur :** Dawoon Choi
+- **Contact :** downeve@gmail.com
+
+L'App ne nécessite pas de créer un compte et ne demande ni votre nom, ni votre e-mail, ni votre téléphone, ni votre adresse postale.
+
+### 2. Informations que nous collectons
+**(a) Informations que vous fournissez.** Aucune n'est requise. L'App n'a ni inscription ni connexion propre.
+
+**(b) Stockées uniquement sur votre appareil.** La progression du jeu, les meilleurs records, les préférences de son/retour haptique et les compteurs de fréquence des publicités sont stockés localement sur votre appareil (`UserDefaults` d'iOS). Ces données restent sur l'appareil et ne sont pas envoyées au Développeur.
+
+**(c) Données publicitaires (via Google AdMob).** L'App affiche des publicités via Google AdMob. Pour diffuser et mesurer les publicités, Google et ses partenaires peuvent collecter et traiter :
+- Des identifiants d'appareil et de publicité (par ex. l'IDFA lorsque autorisé, l'IDFV)
+- L'adresse IP et la localisation approximative qui en découle
+- Des informations sur l'appareil (modèle, version de l'OS, langue)
+- Des données d'interaction et de performance publicitaires
+
+Sur iOS, l'accès à l'IDFA nécessite votre autorisation via l'invite App Tracking Transparency (ATT) d'Apple. Si vous refusez, les publicités restent affichées mais ne sont pas personnalisées à l'aide de l'IDFA.
+
+**(d) Game Center (facultatif).** Si vous êtes connecté à Apple Game Center et utilisez les classements, votre identifiant de joueur Game Center et vos scores sont traités par Apple pour afficher les classements. C'est facultatif ; sans connexion, les classements sont ignorés et vos meilleurs scores restent sur votre appareil.
+
+Nous ne collectons pas sciemment de données personnelles sensibles (catégories particulières).
+
+### 3. Comment nous utilisons les informations
+- Afficher et mesurer la publicité (notre seule source de revenus)
+- Afficher les classements (uniquement si vous utilisez Game Center)
+- Faire fonctionner les fonctions essentielles du jeu (enregistrer la progression et les réglages)
+- Respecter les obligations légales (comme conserver des registres de consentement)
+
+### 4. Publicité, consentement et suivi
+**Google AdMob.** Les publicités sont fournies par Google. Le traitement des données par Google est régi par la [Politique de confidentialité de Google](https://policies.google.com/privacy) et [Comment Google utilise les informations provenant de sites ou d'applis qui utilisent ses services](https://policies.google.com/technologies/partner-sites).
+
+**EEE, Royaume-Uni et Suisse (RGPD).** Là où c'est requis, l'App présente un message de consentement certifié par Google (Google User Messaging Platform, « UMP ») avant de charger les publicités. Vos choix sont enregistrés sur votre appareil. Vous pouvez les modifier ou les retirer à tout moment via **Réglages → Gérer le consentement publicitaire** dans l'App.
+
+**App Tracking Transparency d'Apple (ATT).** Sur iOS, l'App demande votre autorisation avant tout suivi inter-apps ou inter-sites utilisant l'IDFA.
+
+### 5. Services tiers
+- **Google AdMob / Google User Messaging Platform** — publicité et gestion du consentement. Voir la Politique de confidentialité de Google.
+- **Apple Game Center** — classements facultatifs. Voir la [Politique de confidentialité d'Apple](https://www.apple.com/legal/privacy/).
+
+Ces tiers agissent en tant que responsables/sous-traitants indépendants pour les données qu'ils collectent via leurs SDK.
+
+### 6. Partage des données
+Le Développeur ne vend pas vos données personnelles et ne les partage pas à des fins de marketing propres à des tiers. Les données décrites ci-dessus sont traitées par Google et Apple selon leurs propres politiques pour fournir les fonctions de publicité et de Game Center.
+
+### 7. Conservation et suppression des données
+- Les données stockées sur votre appareil sont supprimées lorsque vous désinstallez l'App.
+- Vous pouvez réinitialiser votre identifiant publicitaire dans **Réglages iOS → Confidentialité et sécurité → Suivi / Publicité Apple**.
+- Là où un formulaire de consentement est affiché (EEE/Royaume-Uni), vous pouvez modifier ou retirer votre consentement via **Réglages → Gérer le consentement publicitaire** dans l'App.
+- Pour les données détenues par Google ou Apple, consultez leurs politiques et paramètres de confidentialité respectifs.
+
+### 8. Confidentialité des enfants
+L'App ne s'adresse pas aux enfants de moins de 13 ans (ou l'âge minimum équivalent dans votre pays) et nous ne collectons pas sciemment leurs informations personnelles. Si vous pensez qu'un enfant a fourni des données personnelles, contactez-nous.
+
+### 9. Vos droits et choix
+Selon votre lieu de résidence (par ex. RGPD dans l'EEE/Royaume-Uni, CCPA/CPRA en Californie), vous pouvez avoir le droit d'accéder à vos données, de les corriger, de les supprimer, d'en limiter le traitement et de retirer votre consentement.
+- **Retirer/modifier le consentement publicitaire (EEE/Royaume-Uni) :** dans l'App, Réglages → Gérer le consentement publicitaire.
+- **Suivi (iOS) :** modifiable à tout moment dans Réglages iOS → Confidentialité et sécurité → Suivi.
+- **Autres demandes :** écrivez-nous à downeve@gmail.com.
+
+### 10. Transferts internationaux
+Google et Apple peuvent traiter des données dans des pays autres que le vôtre. Ils appliquent des garanties (telles que les clauses contractuelles types) décrites dans leurs politiques.
+
+### 11. Sécurité
+Nous nous appuyons sur les mesures de sécurité d'Apple iOS et des services Google et Apple que nous utilisons. Les données sur l'appareil sont protégées par le bac à sable applicatif d'iOS. Aucune méthode de transmission ou de stockage n'est toutefois sûre à 100 %.
+
+### 12. Modifications de cette Politique
+Nous pouvons mettre à jour cette Politique de temps à autre. Les modifications importantes seront indiquées par la mise à jour de la date de « Dernière mise à jour ». Votre utilisation continue de l'App après l'entrée en vigueur des modifications constitue l'acceptation de la Politique mise à jour. Toutefois, pour les modifications importantes affectant le traitement des données personnelles (par ex. l'introduction de paiements ou la collecte de données côté serveur), nous fournirons un avis distinct dans l'App et obtiendrons un nouveau consentement explicite (un consentement actif au sens du RGPD). Le consentement au traitement des données publicitaires est obtenu uniquement via le formulaire de consentement UMP, jamais par la seule utilisation continue.
+
+### 13. Contact
+Questions ou demandes : **downeve@gmail.com** (Dawoon Choi).
+
+---
+
+<a name="de"></a>
+## Deutsch
+
+Eve Puzzle („die App", „wir") ist ein kostenloses, werbefinanziertes iOS-Puzzlespiel, entwickelt von Dawoon Choi („der Entwickler"). Diese Richtlinie erläutert, welche Informationen bei der Nutzung der App erhoben werden, wie sie verwendet werden und welche Wahlmöglichkeiten Sie haben. Mit der Nutzung der App stimmen Sie dieser Richtlinie zu.
+
+### 1. Wer wir sind
+- **App:** Eve Puzzle (iOS)
+- **Entwickler:** Dawoon Choi
+- **Kontakt:** downeve@gmail.com
+
+Die App erfordert kein Konto und fragt weder Ihren Namen noch E-Mail, Telefonnummer oder Anschrift ab.
+
+### 2. Erhobene Informationen
+**(a) Von Ihnen bereitgestellte Informationen.** Keine erforderlich. Die App hat keine eigene Registrierung oder Anmeldung.
+
+**(b) Nur auf Ihrem Gerät gespeichert.** Spielfortschritt, Bestwerte, Ton-/Haptik-Einstellungen und Zähler für die Anzeigenhäufigkeit werden lokal auf Ihrem Gerät gespeichert (iOS `UserDefaults`). Diese Daten verbleiben auf dem Gerät und werden nicht an den Entwickler gesendet.
+
+**(c) Werbedaten (über Google AdMob).** Die App zeigt Werbung über Google AdMob. Zum Ausliefern und Messen von Anzeigen können Google und seine Partner Folgendes erheben und verarbeiten:
+- Geräte- und Werbekennungen (z. B. IDFA, sofern erlaubt, IDFV)
+- IP-Adresse und daraus abgeleiteter ungefährer Standort
+- Geräteinformationen (Modell, OS-Version, Sprache)
+- Daten zu Anzeigeninteraktion und -leistung
+
+Unter iOS erfordert der Zugriff auf die IDFA Ihre Erlaubnis über Apples App Tracking Transparency (ATT). Bei Ablehnung werden weiterhin Anzeigen gezeigt, jedoch nicht mithilfe der IDFA personalisiert.
+
+**(d) Game Center (optional).** Wenn Sie bei Apple Game Center angemeldet sind und Bestenlisten nutzen, verarbeitet Apple Ihre Game-Center-Spielerkennung und Punktzahlen, um Ranglisten anzuzeigen. Dies ist optional; ohne Anmeldung entfallen Bestenlisten und Ihre Bestwerte verbleiben auf dem Gerät.
+
+Wir erheben nicht wissentlich sensible (besondere Kategorien) personenbezogene Daten.
+
+### 3. Wie wir Informationen verwenden
+- Anzeigen ausliefern und messen (unsere einzige Einnahmequelle)
+- Bestenlisten anzeigen (nur wenn Sie Game Center nutzen)
+- Kernfunktionen des Spiels ausführen (Fortschritt und Einstellungen speichern)
+- Gesetzliche Pflichten erfüllen (z. B. Einwilligungsnachweise aufbewahren)
+
+### 4. Werbung, Einwilligung und Tracking
+**Google AdMob.** Die Anzeigen werden von Google bereitgestellt. Die Datenverarbeitung durch Google richtet sich nach der [Google-Datenschutzerklärung](https://policies.google.com/privacy) und [Wie Google Daten von Websites oder Apps verwendet, die seine Dienste nutzen](https://policies.google.com/technologies/partner-sites).
+
+**EWR, UK und Schweiz (DSGVO).** Wo erforderlich, zeigt die App vor dem Laden von Anzeigen eine von Google zertifizierte Einwilligungsmeldung (Google User Messaging Platform, „UMP"). Ihre Auswahl wird auf dem Gerät gespeichert. Sie können sie jederzeit über **Einstellungen → Werbe-Einwilligung verwalten** in der App ändern oder widerrufen.
+
+**Apple App Tracking Transparency (ATT).** Unter iOS fragt die App vor jeglichem app- oder website-übergreifenden Tracking mittels IDFA Ihre Erlaubnis ab.
+
+### 5. Drittanbieterdienste
+- **Google AdMob / Google User Messaging Platform** — Werbung und Einwilligungsverwaltung. Siehe Google-Datenschutzerklärung.
+- **Apple Game Center** — optionale Bestenlisten. Siehe [Apple-Datenschutzrichtlinie](https://www.apple.com/legal/privacy/).
+
+Diese Dritten handeln hinsichtlich der über ihre SDKs erhobenen Daten als eigenständige Verantwortliche/Auftragsverarbeiter.
+
+### 6. Datenweitergabe
+Der Entwickler verkauft Ihre personenbezogenen Daten nicht und gibt sie nicht für eigene Marketingzwecke Dritter weiter. Die oben beschriebenen Daten werden von Google und Apple gemäß deren eigenen Richtlinien verarbeitet, um Werbung und Game-Center-Funktionen bereitzustellen.
+
+### 7. Aufbewahrung und Löschung von Daten
+- Auf Ihrem Gerät gespeicherte Daten werden beim Löschen der App entfernt.
+- Ihre Werbekennung können Sie unter **iOS-Einstellungen → Datenschutz & Sicherheit → Tracking / Apple Werbung** zurücksetzen.
+- Wo ein Einwilligungsformular angezeigt wird (EWR/UK), können Sie Ihre Einwilligung über **Einstellungen → Werbe-Einwilligung verwalten** in der App ändern oder widerrufen.
+- Für von Google oder Apple gespeicherte Daten beachten Sie deren jeweilige Richtlinien und Datenschutzeinstellungen.
+
+### 8. Datenschutz von Kindern
+Die App richtet sich nicht an Kinder unter 13 Jahren (oder dem entsprechenden Mindestalter in Ihrem Land), und wir erheben nicht wissentlich deren personenbezogene Daten. Wenn Sie glauben, dass ein Kind Daten bereitgestellt hat, kontaktieren Sie uns bitte.
+
+### 9. Ihre Rechte und Wahlmöglichkeiten
+Je nach Wohnort (z. B. DSGVO im EWR/UK, CCPA/CPRA in Kalifornien) haben Sie ggf. das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer personenbezogenen Daten sowie auf Widerruf der Einwilligung.
+- **Werbe-Einwilligung widerrufen/ändern (EWR/UK):** in der App unter Einstellungen → Werbe-Einwilligung verwalten.
+- **Tracking (iOS):** jederzeit unter iOS-Einstellungen → Datenschutz & Sicherheit → Tracking änderbar.
+- **Sonstige Anfragen:** Schreiben Sie uns an downeve@gmail.com.
+
+### 10. Internationale Übermittlungen
+Google und Apple können Daten in anderen Ländern als Ihrem verarbeiten. Sie wenden Schutzmaßnahmen (etwa Standardvertragsklauseln) an, wie in ihren Richtlinien beschrieben.
+
+### 11. Sicherheit
+Wir verlassen uns auf die Sicherheitsmaßnahmen von Apple iOS sowie der von uns genutzten Google- und Apple-Dienste. Daten auf dem Gerät sind durch die iOS-App-Sandbox geschützt. Keine Übertragungs- oder Speichermethode ist jedoch zu 100 % sicher.
+
+### 12. Änderungen dieser Richtlinie
+Wir können diese Richtlinie von Zeit zu Zeit aktualisieren. Wesentliche Änderungen werden durch Aktualisierung des Datums „Zuletzt aktualisiert" kenntlich gemacht. Ihre fortgesetzte Nutzung der App nach Wirksamwerden der Änderungen gilt als Annahme der aktualisierten Richtlinie. Bei wesentlichen Änderungen, die die Verarbeitung personenbezogener Daten betreffen (z. B. Einführung von Zahlungen oder serverseitige Datenerhebung), werden wir jedoch gesondert in der App informieren und eine erneute ausdrückliche Einwilligung einholen (eine aktive Zustimmung im Sinne der DSGVO). Die Einwilligung zur Verarbeitung von Werbedaten wird ausschließlich über das UMP-Einwilligungsformular als ausdrückliche Zustimmung eingeholt, niemals allein durch fortgesetzte Nutzung.
+
+### 13. Kontakt
+Fragen oder Anfragen: **downeve@gmail.com** (Dawoon Choi).
